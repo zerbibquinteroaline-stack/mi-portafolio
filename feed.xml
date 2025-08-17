@@ -3,12 +3,24 @@
     <title>MI PORTAFOLIO</title>
     <link href="https://zerbibquinteroaline-stack.github.io/mi-portafolio/feed.xml" rel="self" />
     <link href="https://zerbibquinteroaline-stack.github.io/mi-portafolio" />
-    <updated>2025-08-16T21:34:33-05:00</updated>
+    <updated>2025-08-16T21:41:54-05:00</updated>
     <author>
         <name>Aline Zerbib</name>
     </author>
     <id>https://zerbibquinteroaline-stack.github.io/mi-portafolio</id>
 
+    <entry>
+        <title>hola </title>
+        <author>
+            <name>Aline Zerbib</name>
+        </author>
+        <link href="https://zerbibquinteroaline-stack.github.io/mi-portafolio/hola.html"/>
+        <id>https://zerbibquinteroaline-stack.github.io/mi-portafolio/hola.html</id>
+
+        <updated>2025-08-16T21:41:54-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>AZUL</title>
         <author>
