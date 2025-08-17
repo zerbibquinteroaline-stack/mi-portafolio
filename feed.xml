@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>MI PORTAFOLIO</title>
+    <link href="https://zerbibquinteroaline-stack.github.io/mi-portafolio/feed.xml" rel="self" />
+    <link href="https://zerbibquinteroaline-stack.github.io/mi-portafolio" />
+    <updated>2025-08-16T18:58:12-05:00</updated>
+    <author>
+        <name>Aline Zerbib</name>
+    </author>
+    <id>https://zerbibquinteroaline-stack.github.io/mi-portafolio</id>
+
+    <entry>
+        <title>AZUL</title>
+        <author>
+            <name>Aline Zerbib</name>
+        </author>
+        <link href="https://zerbibquinteroaline-stack.github.io/mi-portafolio/azul.html"/>
+        <id>https://zerbibquinteroaline-stack.github.io/mi-portafolio/azul.html</id>
+        <media:content url="https://zerbibquinteroaline-stack.github.io/mi-portafolio/media/posts/2/maxresdefault.jpg" medium="image" />
+            <category term="Composición Visual"/>
+
+        <updated>2025-08-16T17:56:37-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://zerbibquinteroaline-stack.github.io/mi-portafolio/media/posts/2/maxresdefault.jpg" alt="" />
+                    Azul es una canción de Eduardo José Montañez, mejor conocido como Funk Tribu. Es un artista colombiano de 24 años que fusiona los aspectos de dos géneros músicales que han ido ganando fuerza desde la década de los 80s, con origen en Detroit y con&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zerbibquinteroaline-stack.github.io/mi-portafolio/media/posts/2/maxresdefault.jpg" class="type:primaryImage" alt="" /></p>
+                <p><span style="color: #ffffff;"><span style="color: #236fa1;">Azul</span><span style="color: #000000;"> es una canción de Eduardo José Montañez, mejor conocido como Funk Tribu. Es un artista colombiano de 24 años que fusiona los aspectos de dos géneros músicales que han ido ganando fuerza desde la década de los 80s, con origen en Detroit y con su gran auge en los clubes de Berlin;  techno y trance. Se caracterizan por rondar constantemente entre los 125-140 BPM (bajos por minuto), creando un ritmo frenético, repleto de movimiento. </span></span><span style="color: #000000; font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Basándome en lo que siento al escuchar la canción y a los mundos a los que me llevan sus respectivas frecuencias, llegué a la siguiente composición visual realizada en Inkscape.</span></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

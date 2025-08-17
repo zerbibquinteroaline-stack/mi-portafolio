@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zerbibquinteroaline-stack.github.io/mi-portafolio/sitemap.xml
